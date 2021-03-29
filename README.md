@@ -7,8 +7,8 @@
 
 
 </br></br></br></br>
-<a href="https://github.com/ekomuliyo"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekomuliyo&layout=compact" width="50%" /></a>
+<a href="https://github.com/ekomuliyo"><img alt="Most Used Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekomuliyo&layout=compact" width="100%" /></a>
 
 ## Weekly Coding Activity
 
-<a href="https://github.com/ekomuliyo"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ekomuliyo" width="50%" /></a>
+<a href="https://github.com/ekomuliyo"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ekomuliyo" width="100%" /></a>

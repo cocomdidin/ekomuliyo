@@ -5,8 +5,7 @@
 - :earth_asia: Follow me on [Instagram](https://www.instagram.com/ekomuliyo/) or [LinkedIn](https://www.linkedin.com/in/ekomuliyo/)
 - :blue_book: Blogs [ekomuliyo.github.io](https://ekomuliyo.github.io/)
 
-</br></br></br></br></br>
-<a href="https://github.com/ekomuliyo"><img alt="Most Used Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekomuliyo&layout=compact" width="100%" /></a>
+</br></br></br>
 
 ## Weekly Coding Activity
 
